@@ -1,0 +1,66 @@
+{
+	"animations": [
+		{
+			"offsets": [0, -313],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [26, -313],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [7, -313],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [0, -313],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [-3, -313],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				-313
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Miss",
+			"indices": [],
+			"name": "Miss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dark/NeneDarkAssets",
+	"position": [0, 0],
+	"healthicon": "icon-steven",
+	"flip_x": false,
+	"healthbar_colors": [255, 135, 155],
+	"camera_position": [-140, 360],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

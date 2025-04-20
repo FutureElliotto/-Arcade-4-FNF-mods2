@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [100, -541],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "DeathIntro"
+		},
+		{
+			"offsets": [53, -597],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "DeathLoop0000"
+		},
+		{
+			"offsets": [86, -541],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "DeathConfirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/NeneDeathAssets3",
+	"position": [0, 0],
+	"healthicon": "icon-nene",
+	"flip_x": true,
+	"healthbar_colors": [255, 135, 155],
+	"camera_position": [-100, 550],
+	"sing_duration": 0,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

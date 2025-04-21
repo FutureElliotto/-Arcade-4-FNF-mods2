@@ -1,0 +1,15 @@
+{	
+	"titlex": 100,
+	"titley": -50,
+	"startx": 100,
+	"starty": 576,
+	"gfx": 812,
+	"gfy": 240,
+	"backgroundSprite": "MenuBG",
+	"bpm": 102,
+	
+	"animation": "Idle",
+	"dance_left": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+	"dance_right": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+	"idle": false
+}

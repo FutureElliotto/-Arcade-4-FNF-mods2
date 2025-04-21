@@ -1,0 +1,27 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "fancy",
+	"weekBefore": "1weekpants",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"fancymenu",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Scarlet Bite",
+			"baddie",
+			[
+				120,
+				120,
+				120
+			]
+		]
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

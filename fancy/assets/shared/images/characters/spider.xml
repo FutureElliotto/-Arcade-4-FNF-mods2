@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spider.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spider_DanceLeft0000" x="100" y="100" width="432" height="201" frameX="0" frameY="-18" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0001" x="100" y="100" width="432" height="201" frameX="0" frameY="-18" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0002" x="632" y="100" width="429" height="208" frameX="-2" frameY="-11" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0003" x="632" y="100" width="429" height="208" frameX="-2" frameY="-11" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0004" x="1161" y="100" width="423" height="218" frameX="-5" frameY="-1" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0005" x="1161" y="100" width="423" height="218" frameX="-5" frameY="-1" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0006" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0007" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0008" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0009" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0010" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0011" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0012" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceLeft0013" x="100" y="418" width="422" height="219" frameX="-5" frameY="0" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0000" x="622" y="418" width="419" height="242" frameX="-5" frameY="0" frameWidth="424" frameHeight="242"/>
+	<SubTexture name="Spider_DanceRight0001" x="622" y="418" width="419" height="242" frameX="-5" frameY="0" frameWidth="424" frameHeight="242"/>
+	<SubTexture name="Spider_DanceRight0002" x="1141" y="418" width="420" height="234" frameX="-3" frameY="-6" frameWidth="424" frameHeight="242"/>
+	<SubTexture name="Spider_DanceRight0003" x="1141" y="418" width="420" height="234" frameX="-3" frameY="-6" frameWidth="424" frameHeight="242"/>
+	<SubTexture name="Spider_DanceRight0004" x="100" y="760" width="422" height="220" frameX="0" frameY="-17" frameWidth="424" frameHeight="242"/>
+	<SubTexture name="Spider_DanceRight0005" x="100" y="760" width="422" height="220" frameX="0" frameY="-17" frameWidth="424" frameHeight="242"/>
+	<SubTexture name="Spider_DanceRight0006" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0007" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0008" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0009" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0010" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0011" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0012" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_DanceRight0013" x="100" y="418" width="422" height="219" frameX="0" frameY="-17" frameWidth="432" frameHeight="219"/>
+	<SubTexture name="Spider_Down0000" x="622" y="760" width="457" height="189" frameX="0" frameY="-6" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0001" x="622" y="760" width="457" height="189" frameX="0" frameY="-6" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0002" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0003" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0004" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0005" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0006" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0007" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0008" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0009" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0010" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0011" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0012" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Down0013" x="1179" y="760" width="444" height="194" frameX="-7" frameY="0" frameWidth="457" frameHeight="195"/>
+	<SubTexture name="Spider_Left0000" x="100" y="1080" width="361" height="210"/>
+	<SubTexture name="Spider_Left0001" x="100" y="1080" width="361" height="210"/>
+	<SubTexture name="Spider_Left0002" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0003" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0004" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0005" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0006" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0007" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0008" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0009" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0010" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0011" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0012" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Left0013" x="561" y="1080" width="350" height="210" frameX="-10" frameY="0" frameWidth="361" frameHeight="210"/>
+	<SubTexture name="Spider_Right0000" x="1011" y="1080" width="455" height="326"/>
+	<SubTexture name="Spider_Right0001" x="1011" y="1080" width="455" height="326"/>
+	<SubTexture name="Spider_Right0002" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0003" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0004" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0005" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0006" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0007" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0008" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0009" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0010" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0011" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0012" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Right0013" x="100" y="1506" width="435" height="293" frameX="-4" frameY="-32" frameWidth="455" frameHeight="326"/>
+	<SubTexture name="Spider_Up0000" x="635" y="1506" width="375" height="332"/>
+	<SubTexture name="Spider_Up0001" x="635" y="1506" width="375" height="332"/>
+	<SubTexture name="Spider_Up0002" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0003" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0004" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0005" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0006" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0007" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0008" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0009" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0010" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0011" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0012" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+	<SubTexture name="Spider_Up0013" x="1110" y="1506" width="375" height="320" frameX="0" frameY="-11" frameWidth="375" frameHeight="332"/>
+</TextureAtlas>

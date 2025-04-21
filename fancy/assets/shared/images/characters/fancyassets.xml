@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fancyassets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fancy_Down0000" x="100" y="100" width="381" height="532" frameX="0" frameY="0" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0001" x="100" y="100" width="381" height="532" frameX="0" frameY="0" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0002" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0003" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0004" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0005" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0006" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0007" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0008" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0009" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0010" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0011" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0012" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Down0013" x="581" y="100" width="424" height="498" frameX="-5" frameY="-34" frameWidth="429" frameHeight="532"/>
+	<SubTexture name="Fancy_Idle0000" x="1105" y="100" width="322" height="639" frameX="-1" frameY="0" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0001" x="1105" y="100" width="322" height="639" frameX="-1" frameY="0" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0002" x="1527" y="100" width="401" height="615" frameX="0" frameY="-24" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0003" x="1527" y="100" width="401" height="615" frameX="0" frameY="-24" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0004" x="2028" y="100" width="358" height="612" frameX="-5" frameY="-26" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0005" x="2028" y="100" width="358" height="612" frameX="-5" frameY="-26" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0006" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0007" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0008" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0009" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0010" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0011" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0012" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Idle0013" x="2486" y="100" width="356" height="611" frameX="-5" frameY="-27" frameWidth="401" frameHeight="639"/>
+	<SubTexture name="Fancy_Left0000" x="2942" y="100" width="403" height="664" frameX="0" frameY="0" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0001" x="2942" y="100" width="403" height="664" frameX="0" frameY="0" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0002" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0003" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0004" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0005" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0006" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0007" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0008" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0009" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0010" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0011" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0012" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Left0013" x="3445" y="100" width="397" height="627" frameX="-34" frameY="-37" frameWidth="431" frameHeight="664"/>
+	<SubTexture name="Fancy_Right0000" x="100" y="864" width="534" height="628" frameX="0" frameY="0" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0001" x="100" y="864" width="534" height="628" frameX="0" frameY="0" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0002" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0003" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0004" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0005" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0006" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0007" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0008" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0009" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0010" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0011" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0012" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Right0013" x="734" y="864" width="558" height="594" frameX="0" frameY="-34" frameWidth="558" frameHeight="628"/>
+	<SubTexture name="Fancy_Up0000" x="1392" y="864" width="463" height="719"/>
+	<SubTexture name="Fancy_Up0001" x="1392" y="864" width="463" height="719"/>
+	<SubTexture name="Fancy_Up0002" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0003" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0004" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0005" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0006" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0007" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0008" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0009" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0010" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0011" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0012" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+	<SubTexture name="Fancy_Up0013" x="1955" y="864" width="416" height="697" frameX="-2" frameY="-21" frameWidth="463" frameHeight="719"/>
+</TextureAtlas>

@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Spider_DanceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, 17],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Spider_DanceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-35, -16],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Spider_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-20, 106],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Spider_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [10, -30],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Spider_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-37, 108],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Spider_Up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/spider",
+	"position": [0, 570],
+	"healthicon": "baddie",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [100, -100],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cassandra_Idle"
+		},
+		{
+			"offsets": [24, 9],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cassandra_Left0"
+		},
+		{
+			"offsets": [24, 9],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Cassandra_Left_Miss"
+		},
+		{
+			"offsets": [23, -11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cassandra_Down0"
+		},
+		{
+			"offsets": [23, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Cassandra_Down_Miss"
+		},
+		{
+			"offsets": [-24, 31],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cassandra_Up0"
+		},
+		{
+			"offsets": [-24, 31],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Cassandra_Up_Miss"
+		},
+		{
+			"offsets": [-18, 13],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cassandra_Right0"
+		},
+		{
+			"offsets": [-10, 14],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Cassandra_Right_Miss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fancycassandra",
+	"position": [40, 70],
+	"healthicon": "cassandra",
+	"flip_x": true,
+	"healthbar_colors": [201, 43, 74],
+	"camera_position": [200, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

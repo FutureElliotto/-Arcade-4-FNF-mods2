@@ -1,0 +1,27 @@
+{
+	"storyName": "Fancy Warrior",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "fancy",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pants",
+			"fancy",
+			[
+				251,
+				153,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"fancymenu",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

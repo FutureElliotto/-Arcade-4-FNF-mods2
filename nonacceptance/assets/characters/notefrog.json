@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [124, 104],
+			"anim": "idle",
+			"fps": 13,
+			"name": "notefrog idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [123, 104],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "notefrog singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [123, 104],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "notefrog singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [117, 103],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "notefrog singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [123, 103],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "notefrog singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [120, 136],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "notefrog singUPalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [110, 113],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "notefrog singDOWNalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [230, 103],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "notefrog singLEFTalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 100],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "notefrog singRIGHTalt",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/notefrog",
+	"position": [0, 170],
+	"healthicon": "notefrog",
+	"flip_x": false,
+	"healthbar_colors": [254, 16, 16],
+	"camera_position": [-260, -80],
+	"sing_duration": 5.5,
+	"scale": 1.4,
+	"_editor_isPlayer": false
+}

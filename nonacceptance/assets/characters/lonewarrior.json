@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [124, 104],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": true,
+			"name": "lonewarrior idle0"
+		},
+		{
+			"offsets": [122, 106],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "lonewarrior singUP0"
+		},
+		{
+			"offsets": [122, 104],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "lonewarrior singDOWN0"
+		},
+		{
+			"offsets": [126, 105],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lonewarrior singLEFT0"
+		},
+		{
+			"offsets": [123, 106],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lonewarrior singRIGHT0"
+		},
+		{
+			"offsets": [123, 105],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "lonewarrior idlealt"
+		},
+		{
+			"offsets": [122, 105],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "lonewarrior singUPalt"
+		},
+		{
+			"offsets": [119, 105],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "lonewarrior singDOWNalt"
+		},
+		{
+			"offsets": [125, 106],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "lonewarrior singLEFTalt"
+		},
+		{
+			"offsets": [121, 104],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "lonewarrior singRIGHTalt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/lonewarrior",
+	"position": [-30, 170],
+	"healthicon": "lonewarrior",
+	"flip_x": true,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [260, -190],
+	"sing_duration": 5.5,
+	"scale": 1.4,
+	"_editor_isPlayer": true
+}

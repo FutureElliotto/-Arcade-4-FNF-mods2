@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				17
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "darkwing-duck left"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "darkwing-duck idle"
+		},
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "darkwing-duck down"
+		},
+		{
+			"offsets": [
+				15,
+				-6
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "darkwing-duck up"
+		},
+		{
+			"offsets": [
+				2,
+				8
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "darkwing-duck right"
+		}
+	],
+	"vocals_file": "duckwing",
+	"no_antialiasing": false,
+	"image": "characters/darkwing-duck",
+	"position": [
+		-930,
+		-320
+	],
+	"healthicon": "darkwing",
+	"flip_x": false,
+	"healthbar_colors": [
+		59,
+		0,
+		164
+	],
+	"camera_position": [
+		500,
+		460
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

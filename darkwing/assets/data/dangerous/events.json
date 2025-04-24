@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				34000,
+				[
+					[
+						"Set Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Set Camera Zoom",
+						"1",
+						""
+					],
+					[
+						"cinematic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"cinematic",
+						"false",
+						"die"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"badapplelol",
+						"a",
+						"0.5"
+					]
+				]
+			],
+			[
+				77000,
+				[
+					[
+						"badapplelol",
+						"b",
+						"0.5"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"badapplelol",
+						"b",
+						"0.1"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				94000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

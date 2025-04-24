@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="duckwing.png">
+<SubTexture name="duckwing idle0000" x="1741" y="480" width="507" height="479" frameX="-244" frameY="-275" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing idle0001" x="1741" y="0" width="507" height="480" frameX="-246" frameY="-277" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing down0000" x="573" y="1262" width="590" height="401" frameX="-302" frameY="-391" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing down0001" x="0" y="1262" width="573" height="410" frameX="-305" frameY="-382" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing up0000" x="0" y="0" width="475" height="675" frameX="-274" frameY="-103" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing up0001" x="475" y="0" width="487" height="664" frameX="-273" frameY="-113" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing left0000" x="1259" y="675" width="451" height="558" frameX="-76" frameY="-242" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing left0001" x="816" y="675" width="443" height="568" frameX="-98" frameY="-232" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing right0000" x="0" y="675" width="816" height="587" frameX="-272" frameY="-219" frameWidth="1241" frameHeight="862" />
+<SubTexture name="duckwing right0001" x="962" y="0" width="779" height="606" frameX="-273" frameY="-200" frameWidth="1241" frameHeight="862" />
+</TextureAtlas>

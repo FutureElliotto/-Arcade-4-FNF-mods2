@@ -1,0 +1,1 @@
+function beatHit(curBeat:Int) if (lastAnimContext == 'DANCE' && curBeat % 2 == 0) playAnim('idle', true, 'DANCE');  

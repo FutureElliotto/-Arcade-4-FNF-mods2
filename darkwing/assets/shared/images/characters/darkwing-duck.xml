@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darkwing-duck.png">
+<SubTexture name="darkwing-duck idle0000" x="3281" y="0" width="748" height="1149" frameX="-543" frameY="-241" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck idle0001" x="2244" y="1299" width="747" height="1151" frameX="-549" frameY="-239" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck idle0002" x="1496" y="1299" width="748" height="1161" frameX="-544" frameY="-229" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck idle0003" x="748" y="1299" width="748" height="1172" frameX="-541" frameY="-218" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck idle0004" x="0" y="1299" width="748" height="1177" frameX="-540" frameY="-213" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck idle0005" x="0" y="1299" width="748" height="1177" frameX="-540" frameY="-213" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck idle0006" x="0" y="1299" width="748" height="1177" frameX="-540" frameY="-213" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck idle0007" x="0" y="1299" width="748" height="1177" frameX="-540" frameY="-213" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck right0000" x="0" y="3544" width="890" height="1043" frameX="-544" frameY="-360" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck right0001" x="4029" y="0" width="876" height="1051" frameX="-552" frameY="-352" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck right0002" x="4029" y="1051" width="873" height="1050" frameX="-559" frameY="-353" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck right0003" x="4029" y="1051" width="873" height="1050" frameX="-559" frameY="-353" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck right0004" x="4029" y="1051" width="873" height="1050" frameX="-559" frameY="-353" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck right0005" x="4029" y="1051" width="873" height="1050" frameX="-559" frameY="-353" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck right0006" x="4029" y="2101" width="857" height="1050" frameX="-559" frameY="-353" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck left0000" x="2835" y="2476" width="960" height="1059" frameX="-292" frameY="-316" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck left0001" x="1881" y="2476" width="954" height="1060" frameX="-300" frameY="-315" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck left0002" x="933" y="2476" width="948" height="1063" frameX="-308" frameY="-312" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck left0003" x="933" y="2476" width="948" height="1063" frameX="-308" frameY="-312" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck left0004" x="933" y="2476" width="948" height="1063" frameX="-308" frameY="-312" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck left0005" x="933" y="2476" width="948" height="1063" frameX="-308" frameY="-312" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck left0006" x="0" y="2476" width="933" height="1068" frameX="-327" frameY="-307" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck up0000" x="0" y="0" width="804" height="1299" frameX="-532" frameY="-93" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck up0001" x="804" y="0" width="814" height="1265" frameX="-523" frameY="-100" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck up0002" x="1618" y="0" width="828" height="1238" frameX="-511" frameY="-127" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck up0003" x="1618" y="0" width="828" height="1238" frameX="-511" frameY="-127" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck up0004" x="1618" y="0" width="828" height="1238" frameX="-511" frameY="-127" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck up0005" x="1618" y="0" width="828" height="1238" frameX="-511" frameY="-127" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck up0006" x="2446" y="0" width="835" height="1209" frameX="-505" frameY="-156" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck down0000" x="2811" y="3544" width="947" height="933" frameX="-534" frameY="-485" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck down0001" x="3758" y="3544" width="973" height="930" frameX="-513" frameY="-488" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck down0002" x="890" y="3544" width="977" height="936" frameX="-510" frameY="-482" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck down0003" x="890" y="3544" width="977" height="936" frameX="-510" frameY="-482" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck down0004" x="890" y="3544" width="977" height="936" frameX="-510" frameY="-482" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck down0005" x="890" y="3544" width="977" height="936" frameX="-510" frameY="-482" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="darkwing-duck down0006" x="1867" y="3544" width="944" height="935" frameX="-545" frameY="-483" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

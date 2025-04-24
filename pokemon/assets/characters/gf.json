@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-3
+			],
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "cheer0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "dance left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "dance right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TrainerGF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

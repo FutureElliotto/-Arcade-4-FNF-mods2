@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		-650,
+		-150
+	],
+	"_editorMeta": {
+		"boyfriend": "boblox",
+		"gf": "cpapus",
+		"dad": "dou"
+	},
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
+	"girlfriend": [
+		158,
+		375
+	],
+	"stageUI": "",
+	"boyfriend": [
+		1093,
+		414
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.55,
+	"objects": [
+		{
+			"x": -747,
+			"y": 45,
+			"scale": [
+				2.2,
+				2.2
+			],
+			"image": "awsom/awsom",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_speed": 1,
+	"directory": "",
+	"opponent": [
+		-301,
+		402
+	],
+	"camera_opponent": [
+		500,
+		-100
+	],
+	"hide_girlfriend": false
+}

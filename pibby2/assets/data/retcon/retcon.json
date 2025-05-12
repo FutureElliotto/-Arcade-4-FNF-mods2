@@ -7220,7 +7220,7 @@
 		"player3": "darwinretcon",
 		"cameraMoveOnNotes": false,
 		"song": "Retcon",
-		"needsVoices": true,
+		"needsVoices": false,
 		"sections": 0,
 		"validScore": true,
 		"stage": "void",

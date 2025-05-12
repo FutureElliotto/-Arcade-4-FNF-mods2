@@ -54,13 +54,57 @@
 			"fps": 24,
 			"name": "Right",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-2
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				3
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				33
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				-14
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Fake_Finn",
 	"position": [
-		-320,
-		30
+		130,
+		410
 	],
 	"healthicon": "finn",
 	"flip_x": false,
@@ -70,9 +114,9 @@
 		161
 	],
 	"camera_position": [
-		50,
-		80
+		-400,
+		-400
 	],
 	"sing_duration": 6.1,
-	"scale": 0.75
+	"scale": 3.15
 }

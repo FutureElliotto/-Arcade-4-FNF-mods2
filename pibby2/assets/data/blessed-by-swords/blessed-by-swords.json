@@ -5126,7 +5126,7 @@
 		"player3": "pibby",
 		"song": "Blessed by Swords",
 		"validScore": true,
-		"needsVoices": true,
+		"needsVoices": false,
 		"stage": "lab",
 		"speed": 3,
 		"bpm": 180

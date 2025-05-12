@@ -17044,7 +17044,7 @@
 		"player3": null,
 		"song": "Mindless",
 		"stage": "lab",
-		"needsVoices": true,
+		"needsVoices": false,
 		"validScore": true,
 		"bpm": 163,
 		"speed": 2.8

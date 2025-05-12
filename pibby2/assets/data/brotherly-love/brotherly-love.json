@@ -15507,7 +15507,7 @@
 		"player2": "jake",
 		"splashSkin": "noteSplashes",
 		"song": "Brotherly Love",
-		"needsVoices": true,
+		"needsVoices": false,
 		"arrowSkin": "",
 		"stage": "lab",
 		"validScore": true,

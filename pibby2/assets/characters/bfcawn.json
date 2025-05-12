@@ -1,113 +1,113 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-5,
 				240
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "Bf Idle"
+			"fps": 10,
+			"name": "Bf Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				234
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "Bf Down"
+			"fps": 10,
+			"name": "Bf Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-15,
 				230
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Bf Right"
+			"fps": 10,
+			"name": "Bf Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-11,
+				-13,
 				241
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "Bf Up"
+			"fps": 10,
+			"name": "Bf Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-17,
 				234
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Bf Left"
+			"fps": 10,
+			"name": "Bf Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				40,
+				-9,
 				233
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "Bf D Miss"
+			"fps": 10,
+			"name": "Bf D Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				17,
+				-29,
 				249
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
-			"name": "Bf U Miss"
+			"fps": 10,
+			"name": "Bf U Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				54,
+				-28,
 				245
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "Bf R Miss"
+			"fps": 10,
+			"name": "Bf R Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				86,
+				12,
 				237
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "Bf L Miss"
+			"fps": 10,
+			"name": "Bf L Miss",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/COME_ALONG_BF",
 	"position": [
-		0,
+		-300,
 		350
 	],
 	"healthicon": "bf",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		49,
 		176,

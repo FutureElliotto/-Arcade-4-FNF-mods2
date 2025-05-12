@@ -3,8 +3,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				0,
-				0
+				-12,
+				-4
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -59,20 +59,20 @@
 	"no_antialiasing": false,
 	"image": "characters/Darwind",
 	"position": [
-		100,
-		450
+		160,
+		510
 	],
 	"healthicon": "darwin",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		120,
-		75
+		55
 	],
 	"camera_position": [
-		160,
-		-70
+		100,
+		-130
 	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 3
 }

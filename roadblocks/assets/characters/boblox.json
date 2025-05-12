@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-10, 141],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [66, 120],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [14, 56],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [15, 162],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-52, 126],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [75, 122],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "izquierda",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [16, 53],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "abajo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [14, 162],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "arriba",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-18, 122],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "derecha",
+			"indices": []
+		}
+	],
+	"vocals_file": "icon-rblx",
+	"no_antialiasing": false,
+	"image": "characters/boblox",
+	"position": [0, 350],
+	"healthicon": "icon-rblx",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [-70, 10],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

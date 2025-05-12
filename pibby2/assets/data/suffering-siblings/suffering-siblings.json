@@ -18468,7 +18468,7 @@
 		"player2": "finn-R",
 		"splashSkin": "noteSplashes",
 		"song": "Suffering Siblings",
-		"needsVoices": true,
+		"needsVoices": false,
 		"arrowSkin": "",
 		"stage": "lab",
 		"validScore": true,

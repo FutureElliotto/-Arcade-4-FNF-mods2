@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				-6,
+				-3
 			],
 			"loop": true,
 			"fps": 24,
@@ -47,7 +47,7 @@
 		{
 			"offsets": [
 				-28,
-				74
+				76
 			],
 			"loop": false,
 			"fps": 24,
@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/darwin-noremote",
 	"position": [
-		100,
-		450
+		150,
+		510
 	],
 	"healthicon": "darwin",
 	"flip_x": true,
@@ -70,9 +70,9 @@
 		75
 	],
 	"camera_position": [
-		160,
-		-70
+		210,
+		-130
 	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 3
 }

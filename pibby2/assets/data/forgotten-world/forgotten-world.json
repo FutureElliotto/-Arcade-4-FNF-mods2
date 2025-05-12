@@ -6492,7 +6492,7 @@
 		"player2": "gumball",
 		"splashSkin": "noteSplashes",
 		"song": "Forgotten World",
-		"needsVoices": true,
+		"needsVoices": false,
 		"arrowSkin": "",
 		"stage": "voidFW",
 		"validScore": true,

@@ -7940,7 +7940,7 @@
 		"healthdrainKill": false,
 		"healthdrain": 0,
 		"cameraMoveOnNotes": false,
-		"needsVoices": true,
+		"needsVoices": false,
 		"stage": "treehouse",
 		"bpm": 180
 	}

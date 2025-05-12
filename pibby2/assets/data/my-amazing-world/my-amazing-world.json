@@ -8347,7 +8347,7 @@
 		"player3": "darwinretcon",
 		"song": "My Amazing World",
 		"sections": 0,
-		"needsVoices": true,
+		"needsVoices": false,
 		"stage": "schoolMAW",
 		"validScore": true,
 		"bpm": 200,

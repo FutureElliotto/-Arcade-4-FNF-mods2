@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				93,
-				25
+				91,
+				23
 			],
 			"loop": false,
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				-85,
-				73
+				63
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				26,
-				-7
+				20,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				99
+				-10,
+				82
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,21 +46,21 @@
 		},
 		{
 			"offsets": [
-				0,
+				16,
 				30
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
 			"anim": "idle",
-			"loop": true,
+			"indices": [],
 			"name": "di"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/darwin-fw",
 	"position": [
-		100,
-		450
+		210,
+		510
 	],
 	"healthicon": "darwin",
 	"flip_x": true,
@@ -70,9 +70,9 @@
 		75
 	],
 	"camera_position": [
-		160,
-		-70
+		270,
+		-130
 	],
 	"sing_duration": 4,
-	"scale": 1.1
+	"scale": 2.2
 }

@@ -13253,7 +13253,7 @@
 		"gfVersion": "gf",
 		"player3": null,
 		"song": "Child's Play",
-		"needsVoices": true,
+		"needsVoices": false,
 		"sections": 0,
 		"validScore": true,
 		"stage": "school",

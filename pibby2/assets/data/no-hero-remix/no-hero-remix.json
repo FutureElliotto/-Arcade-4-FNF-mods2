@@ -7286,7 +7286,7 @@
 		"validScore": true,
 		"stage": "lab-nh",
 		"arrowSkin": "",
-		"needsVoices": true,
+		"needsVoices": false,
 		"speed": 3.2,
 		"bpm": 150
 	}

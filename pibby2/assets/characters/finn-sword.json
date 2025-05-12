@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Finn-sword",
 	"position": [
-		-100,
-		40
+		210,
+		170
 	],
 	"healthicon": "finn",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		179
 	],
 	"camera_position": [
-		0,
-		0
+		-290,
+		-90
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

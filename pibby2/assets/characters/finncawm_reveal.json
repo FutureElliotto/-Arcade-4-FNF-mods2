@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/finn_reveal",
 	"position": [
-		-40,
-		20
+		-180,
+		10
 	],
 	"healthicon": "finn",
 	"flip_x": false,
@@ -71,7 +71,7 @@
 	],
 	"camera_position": [
 		-200,
-		200
+		210
 	],
 	"sing_duration": 6.1,
 	"scale": 2

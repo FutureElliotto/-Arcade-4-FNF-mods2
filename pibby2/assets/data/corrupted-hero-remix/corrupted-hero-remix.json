@@ -9595,7 +9595,7 @@
 		"uiType": "normal",
 		"stage": "place",
 		"sections": 0,
-		"needsVoices": true,
+		"needsVoices": false,
 		"bpm": 190,
 		"gf": "gf"
 	}

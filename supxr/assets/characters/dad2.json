@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [-10, -20],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DAD 2"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dad2",
+	"position": [0, 20],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [175, 102, 206],
+	"camera_position": [0, -70],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

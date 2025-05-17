@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="literallyjustaguy.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PERSON 20000" x="0" y="0" width="88" height="151" frameX="-3" frameY="-1" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20001" x="0" y="0" width="88" height="151" frameX="-3" frameY="-1" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20002" x="0" y="0" width="88" height="151" frameX="-3" frameY="-1" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20003" x="0" y="0" width="88" height="151" frameX="-3" frameY="-1" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20004" x="88" y="0" width="80" height="151" frameX="-5" frameY="0" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20005" x="88" y="0" width="80" height="151" frameX="-5" frameY="0" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20006" x="88" y="0" width="80" height="151" frameX="-5" frameY="0" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20007" x="88" y="0" width="80" height="151" frameX="-5" frameY="0" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20008" x="168" y="0" width="81" height="148" frameX="0" frameY="-4" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20009" x="168" y="0" width="81" height="148" frameX="0" frameY="-4" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20010" x="168" y="0" width="81" height="148" frameX="0" frameY="-4" frameWidth="91" frameHeight="152"/>
+	<SubTexture name="PERSON 20011" x="168" y="0" width="81" height="148" frameX="0" frameY="-4" frameWidth="91" frameHeight="152"/>
+</TextureAtlas>

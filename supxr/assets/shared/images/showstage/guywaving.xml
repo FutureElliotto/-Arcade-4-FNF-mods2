@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guywaving.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PERSON 40000" x="0" y="0" width="187" height="283" frameX="0" frameY="-3" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40001" x="0" y="0" width="187" height="283" frameX="0" frameY="-3" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40002" x="0" y="0" width="187" height="283" frameX="0" frameY="-3" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40003" x="0" y="0" width="187" height="283" frameX="0" frameY="-3" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40004" x="187" y="0" width="179" height="284" frameX="-5" frameY="0" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40005" x="187" y="0" width="179" height="284" frameX="-5" frameY="0" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40006" x="187" y="0" width="179" height="284" frameX="-5" frameY="0" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40007" x="187" y="0" width="179" height="284" frameX="-5" frameY="0" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40008" x="366" y="0" width="183" height="280" frameX="0" frameY="-1" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40009" x="366" y="0" width="183" height="280" frameX="0" frameY="-1" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40010" x="366" y="0" width="183" height="280" frameX="0" frameY="-1" frameWidth="187" frameHeight="286"/>
+	<SubTexture name="PERSON 40011" x="366" y="0" width="183" height="280" frameX="0" frameY="-1" frameWidth="187" frameHeight="286"/>
+</TextureAtlas>

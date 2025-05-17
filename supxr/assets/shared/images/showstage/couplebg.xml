@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="couplebg.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="COUPLE0000" x="0" y="0" width="122" height="142" frameX="-5" frameY="-1" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0001" x="0" y="0" width="122" height="142" frameX="-5" frameY="-1" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0002" x="0" y="0" width="122" height="142" frameX="-5" frameY="-1" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0003" x="0" y="0" width="122" height="142" frameX="-5" frameY="-1" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0004" x="122" y="0" width="134" height="140" frameX="0" frameY="-2" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0005" x="122" y="0" width="134" height="140" frameX="0" frameY="-2" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0006" x="122" y="0" width="134" height="140" frameX="0" frameY="-2" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0007" x="122" y="0" width="134" height="140" frameX="0" frameY="-2" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0008" x="256" y="0" width="130" height="143" frameX="-3" frameY="0" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0009" x="256" y="0" width="130" height="143" frameX="-3" frameY="0" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0010" x="256" y="0" width="130" height="143" frameX="-3" frameY="0" frameWidth="134" frameHeight="143"/>
+	<SubTexture name="COUPLE0011" x="256" y="0" width="130" height="143" frameX="-3" frameY="0" frameWidth="134" frameHeight="143"/>
+</TextureAtlas>

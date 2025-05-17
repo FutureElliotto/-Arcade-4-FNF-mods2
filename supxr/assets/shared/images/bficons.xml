@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bficons.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon reg0000" x="0" y="0" width="138" height="125" pivotX="0" pivotY="0"/>
+	<SubTexture name="icon reg0001" x="0" y="0" width="138" height="125"/>
+	<SubTexture name="icon reg0002" x="138" y="0" width="138" height="125"/>
+	<SubTexture name="icon reg0003" x="138" y="0" width="138" height="125"/>
+	<SubTexture name="icondying0000" x="276" y="0" width="135" height="121" pivotX="0.05" pivotY="0"/>
+	<SubTexture name="icondying0001" x="0" y="125" width="134" height="121" frameX="0" frameY="0" frameWidth="135" frameHeight="121"/>
+</TextureAtlas>

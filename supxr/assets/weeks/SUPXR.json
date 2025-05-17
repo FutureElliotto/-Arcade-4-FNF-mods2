@@ -1,0 +1,36 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"inmyhead",
+			"supx",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"SWINDLE",
+			"supx",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

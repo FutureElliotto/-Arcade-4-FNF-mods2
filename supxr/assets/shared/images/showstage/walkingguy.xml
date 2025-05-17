@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="walkingguy.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WALK CYCLE 10000" x="0" y="0" width="78" height="200" frameX="0" frameY="0" frameWidth="88" frameHeight="200"/>
+	<SubTexture name="WALK CYCLE 10001" x="0" y="0" width="78" height="200" frameX="0" frameY="0" frameWidth="88" frameHeight="200"/>
+	<SubTexture name="WALK CYCLE 10002" x="0" y="0" width="78" height="200" frameX="0" frameY="0" frameWidth="88" frameHeight="200"/>
+	<SubTexture name="WALK CYCLE 10003" x="0" y="0" width="78" height="200" frameX="0" frameY="0" frameWidth="88" frameHeight="200"/>
+	<SubTexture name="WALK CYCLE 10004" x="78" y="0" width="87" height="194" frameX="-1" frameY="-1" frameWidth="88" frameHeight="200"/>
+	<SubTexture name="WALK CYCLE 10005" x="78" y="0" width="87" height="194" frameX="-1" frameY="-1" frameWidth="88" frameHeight="200"/>
+	<SubTexture name="WALK CYCLE 10006" x="78" y="0" width="87" height="194" frameX="-1" frameY="-1" frameWidth="88" frameHeight="200"/>
+	<SubTexture name="WALK CYCLE 10007" x="78" y="0" width="87" height="194" frameX="-1" frameY="-1" frameWidth="88" frameHeight="200"/>
+</TextureAtlas>

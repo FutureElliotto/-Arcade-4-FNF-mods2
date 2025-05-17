@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="farguys.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cheer30000" x="3006" y="909" width="3000" height="1149"/>
+	<SubTexture name="cheer30001" x="3006" y="909" width="3000" height="1149"/>
+	<SubTexture name="cheer30002" x="0" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30003" x="0" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30004" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30005" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30006" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30007" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30008" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30009" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30010" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30011" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30012" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30013" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="cheer30014" x="3000" y="2058" width="3000" height="1149"/>
+	<SubTexture name="guys30000" x="0" y="0" width="3006" height="909"/>
+	<SubTexture name="guys30001" x="0" y="0" width="3006" height="909"/>
+	<SubTexture name="guys30002" x="3006" y="0" width="3006" height="909"/>
+	<SubTexture name="guys30003" x="3006" y="0" width="3006" height="909"/>
+	<SubTexture name="guys30004" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30005" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30006" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30007" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30008" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30009" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30010" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30011" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30012" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30013" x="0" y="909" width="3006" height="909"/>
+	<SubTexture name="guys30014" x="0" y="909" width="3006" height="909"/>
+</TextureAtlas>

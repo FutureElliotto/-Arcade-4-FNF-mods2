@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sea.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SEA0000" x="0" y="0" width="5492" height="1752" frameX="0" frameY="-5" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0001" x="0" y="0" width="5492" height="1752" frameX="0" frameY="-5" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0002" x="0" y="0" width="5492" height="1752" frameX="0" frameY="-5" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0003" x="0" y="0" width="5492" height="1752" frameX="0" frameY="-5" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0004" x="0" y="0" width="5492" height="1752" frameX="0" frameY="-5" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0005" x="0" y="0" width="5492" height="1752" frameX="0" frameY="-5" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0006" x="0" y="0" width="5492" height="1752" frameX="0" frameY="-5" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0007" x="0" y="1752" width="5492" height="1755" frameX="0" frameY="-2" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0008" x="0" y="1752" width="5492" height="1755" frameX="0" frameY="-2" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0009" x="0" y="1752" width="5492" height="1755" frameX="0" frameY="-2" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0010" x="0" y="1752" width="5492" height="1755" frameX="0" frameY="-2" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0011" x="0" y="1752" width="5492" height="1755" frameX="0" frameY="-2" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0012" x="0" y="1752" width="5492" height="1755" frameX="0" frameY="-2" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0013" x="0" y="1752" width="5492" height="1755" frameX="0" frameY="-2" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0014" x="0" y="3507" width="5492" height="1757"/>
+	<SubTexture name="SEA0015" x="0" y="3507" width="5492" height="1757"/>
+	<SubTexture name="SEA0016" x="0" y="3507" width="5492" height="1757"/>
+	<SubTexture name="SEA0017" x="0" y="3507" width="5492" height="1757"/>
+	<SubTexture name="SEA0018" x="0" y="3507" width="5492" height="1757"/>
+	<SubTexture name="SEA0019" x="0" y="3507" width="5492" height="1757"/>
+	<SubTexture name="SEA0020" x="0" y="3507" width="5492" height="1757"/>
+	<SubTexture name="SEA0021" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0022" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0023" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0024" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0025" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0026" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0027" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+	<SubTexture name="SEA0028" x="0" y="5264" width="5492" height="1753" frameX="0" frameY="-4" frameWidth="5492" frameHeight="1757"/>
+</TextureAtlas>

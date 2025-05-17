@@ -1,0 +1,208 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle1",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle2",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-30
+			],
+			"anim": "idle-galt",
+			"fps": 24,
+			"name": "turninup",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-30
+			],
+			"anim": "change1",
+			"fps": 24,
+			"name": "turninupchang0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				-30
+			],
+			"anim": "change2",
+			"fps": 24,
+			"name": "turninupchang20",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-104,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheeringin",
+			"indices": [],
+			"name": "cheer1"
+		},
+		{
+			"offsets": [
+				-91,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheeringout",
+			"indices": [],
+			"name": "cheer2"
+		},
+		{
+			"offsets": [
+				-96,
+				204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singing",
+			"indices": [],
+			"name": "SINGING PART0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				19
+			],
+			"anim": "inbetween",
+			"fps": 24,
+			"name": "INBETWEEN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-40
+			],
+			"anim": "Search",
+			"fps": 24,
+			"name": "PEE0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				46
+			],
+			"anim": "Taunt",
+			"fps": 24,
+			"name": "SWAG TAUNT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				221
+			],
+			"anim": "woohoo",
+			"fps": 24,
+			"name": "PEENIS0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/minusBf",
+	"position": [
+		73,
+		73
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		97
+	],
+	"camera_position": [
+		40,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

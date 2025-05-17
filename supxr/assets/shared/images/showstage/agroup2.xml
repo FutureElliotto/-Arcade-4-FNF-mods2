@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agroup2.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PERSONS 30000" x="0" y="0" width="184" height="236" frameX="-2" frameY="0" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30001" x="0" y="0" width="184" height="236" frameX="-2" frameY="0" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30002" x="0" y="0" width="184" height="236" frameX="-2" frameY="0" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30003" x="0" y="0" width="184" height="236" frameX="-2" frameY="0" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30004" x="184" y="0" width="178" height="238" frameX="-6" frameY="-3" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30005" x="184" y="0" width="178" height="238" frameX="-6" frameY="-3" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30006" x="184" y="0" width="178" height="238" frameX="-6" frameY="-3" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30007" x="184" y="0" width="178" height="238" frameX="-6" frameY="-3" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30008" x="0" y="238" width="183" height="242" frameX="0" frameY="-4" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30009" x="0" y="238" width="183" height="242" frameX="0" frameY="-4" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30010" x="0" y="238" width="183" height="242" frameX="0" frameY="-4" frameWidth="186" frameHeight="246"/>
+	<SubTexture name="PERSONS 30011" x="0" y="238" width="183" height="242" frameX="0" frameY="-4" frameWidth="186" frameHeight="246"/>
+</TextureAtlas>

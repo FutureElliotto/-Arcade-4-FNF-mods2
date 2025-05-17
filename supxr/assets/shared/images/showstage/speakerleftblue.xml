@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speakerleftblue.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speakerleftblue0000" x="0" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0001" x="0" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0002" x="590" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0003" x="590" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0004" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0005" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0006" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0007" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0008" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0009" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0010" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0011" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0012" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0013" x="1180" y="0" width="590" height="699"/>
+	<SubTexture name="speakerleftblue0014" x="1180" y="0" width="590" height="699"/>
+</TextureAtlas>

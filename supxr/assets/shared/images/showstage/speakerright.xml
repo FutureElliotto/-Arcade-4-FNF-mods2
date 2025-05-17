@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speakerright.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speaker 20000" x="0" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20001" x="0" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20002" x="591" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20003" x="591" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20004" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20005" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20006" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20007" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20008" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20009" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20010" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20011" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20012" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20013" x="1182" y="0" width="591" height="699"/>
+	<SubTexture name="speaker 20014" x="1182" y="0" width="591" height="699"/>
+</TextureAtlas>

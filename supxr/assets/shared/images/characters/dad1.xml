@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dad1.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DAD 10000" x="0" y="0" width="641" height="793" pivotX="0.4" pivotY="0.05"/>
+	<SubTexture name="DAD 10001" x="0" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10002" x="0" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10003" x="641" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10004" x="641" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10005" x="641" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10006" x="1282" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10007" x="1282" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10008" x="1282" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10009" x="1923" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10010" x="1923" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10011" x="1923" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10012" x="2564" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10013" x="2564" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10014" x="2564" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10015" x="3205" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10016" x="3205" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10017" x="3205" y="0" width="641" height="793"/>
+	<SubTexture name="DAD 10018" x="0" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10019" x="0" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10020" x="0" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10021" x="641" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10022" x="641" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10023" x="641" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10024" x="1282" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10025" x="1282" y="793" width="641" height="793"/>
+	<SubTexture name="DAD 10026" x="1282" y="793" width="641" height="793"/>
+</TextureAtlas>

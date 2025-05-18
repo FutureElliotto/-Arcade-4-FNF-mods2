@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pico_idle"
+		},
+		{
+			"offsets": [
+				98,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico_up"
+		},
+		{
+			"offsets": [
+				78,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pico_down"
+		},
+		{
+			"offsets": [
+				100,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pico_right"
+		},
+		{
+			"offsets": [
+				118,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pico_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				354,
+				60
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "pico_shoot",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/plushpico",
+	"position": [
+		-200,
+		-30
+	],
+	"healthicon": "plushpico",
+	"flip_x": true,
+	"healthbar_colors": [
+		126,
+		192,
+		79
+	],
+	"camera_position": [
+		-210,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": true
+}

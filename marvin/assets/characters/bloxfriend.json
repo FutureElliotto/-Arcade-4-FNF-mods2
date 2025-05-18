@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-39
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-59
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-135
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-61
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-134
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-46
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missUP",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/johnnybf",
+	"position": [
+		-80,
+		130
+	],
+	"healthicon": "bloxfriend",
+	"flip_x": true,
+	"healthbar_colors": [
+		34,
+		173,
+		211
+	],
+	"camera_position": [
+		-160,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

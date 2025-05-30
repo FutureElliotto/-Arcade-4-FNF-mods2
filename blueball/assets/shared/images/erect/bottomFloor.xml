@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="bottomFloor">
+    <SubTexture name="Idle0000" x="0" y="0" width="459" height="105" frameWidth="511" frameHeight="176" frameX="0" frameY="-34"/>
+    <SubTexture name="Idle0001" x="0" y="0" width="459" height="105" frameWidth="511" frameHeight="176" frameX="0" frameY="-34"/>
+    <SubTexture name="Idle0002" x="0" y="115" width="459" height="104" frameWidth="511" frameHeight="176" frameX="0" frameY="-35"/>
+    <SubTexture name="Idle0003" x="0" y="115" width="459" height="104" frameWidth="511" frameHeight="176" frameX="0" frameY="-35"/>
+    <SubTexture name="Idle0004" x="0" y="229" width="458" height="105" frameWidth="511" frameHeight="176" frameX="-1" frameY="-34"/>
+    <SubTexture name="Idle0005" x="0" y="229" width="458" height="105" frameWidth="511" frameHeight="176" frameX="-1" frameY="-34"/>
+    <SubTexture name="Spreading0000" x="0" y="344" width="459" height="106" frameWidth="511" frameHeight="176" frameX="0" frameY="-37"/>
+    <SubTexture name="Spreading0001" x="0" y="344" width="459" height="106" frameWidth="511" frameHeight="176" frameX="0" frameY="-37"/>
+    <SubTexture name="Spreading0002" x="0" y="460" width="458" height="123" frameWidth="511" frameHeight="176" frameX="-1" frameY="-37"/>
+    <SubTexture name="Spreading0003" x="0" y="460" width="458" height="123" frameWidth="511" frameHeight="176" frameX="-1" frameY="-37"/>
+    <SubTexture name="Spreading0004" x="0" y="593" width="459" height="131" frameWidth="511" frameHeight="176" frameX="0" frameY="-36"/>
+    <SubTexture name="Spreading0005" x="0" y="593" width="459" height="131" frameWidth="511" frameHeight="176" frameX="0" frameY="-36"/>
+    <SubTexture name="Spreading0006" x="0" y="734" width="462" height="140" frameWidth="511" frameHeight="176" frameX="0" frameY="-36"/>
+    <SubTexture name="Spreading0007" x="0" y="0" width="459" height="105" frameWidth="511" frameHeight="176" frameX="0" frameY="-34"/>
+    <SubTexture name="Spreading0008" x="0" y="0" width="459" height="105" frameWidth="511" frameHeight="176" frameX="0" frameY="-34"/>
+    <SubTexture name="Spreading0009" x="0" y="115" width="459" height="104" frameWidth="511" frameHeight="176" frameX="0" frameY="-35"/>
+    <SubTexture name="Spreading0010" x="0" y="115" width="459" height="104" frameWidth="511" frameHeight="176" frameX="0" frameY="-35"/>
+    <SubTexture name="Spreading0011" x="0" y="229" width="458" height="105" frameWidth="511" frameHeight="176" frameX="-1" frameY="-34"/>
+    <SubTexture name="Spreading0012" x="0" y="229" width="458" height="105" frameWidth="511" frameHeight="176" frameX="-1" frameY="-34"/>
+    <SubTexture name="Spreading0013" x="0" y="593" width="459" height="131" frameWidth="511" frameHeight="176" frameX="0" frameY="-36"/>
+    <SubTexture name="Spreading0014" x="0" y="593" width="459" height="131" frameWidth="511" frameHeight="176" frameX="0" frameY="-36"/>
+    <SubTexture name="Spreading0015" x="0" y="460" width="458" height="123" frameWidth="511" frameHeight="176" frameX="-1" frameY="-37"/>
+    <SubTexture name="Spreading0016" x="0" y="460" width="458" height="123" frameWidth="511" frameHeight="176" frameX="-1" frameY="-37"/>
+    <SubTexture name="Spreading0017" x="0" y="344" width="459" height="106" frameWidth="511" frameHeight="176" frameX="0" frameY="-37"/>
+    <SubTexture name="Spreading0018" x="0" y="344" width="459" height="106" frameWidth="511" frameHeight="176" frameX="0" frameY="-37"/>
+</TextureAtlas>

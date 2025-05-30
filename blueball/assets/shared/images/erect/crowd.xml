@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="crowd">
+    <SubTexture name="Symbol 2 instance 10000" x="0" y="0" width="665" height="198" frameWidth="667" frameHeight="200" frameX="0" frameY="-1"/>
+    <SubTexture name="Symbol 2 instance 10001" x="666" y="0" width="661" height="195" frameWidth="667" frameHeight="200" frameX="-4" frameY="-4"/>
+    <SubTexture name="Symbol 2 instance 10002" x="0" y="208" width="662" height="195" frameWidth="667" frameHeight="200" frameX="-4" frameY="-4"/>
+    <SubTexture name="Symbol 2 instance 10003" x="663" y="208" width="665" height="192" frameWidth="667" frameHeight="200" frameX="-1" frameY="-7"/>
+    <SubTexture name="Symbol 2 instance 10004" x="0" y="413" width="665" height="192" frameWidth="667" frameHeight="200" frameX="0" frameY="-7"/>
+    <SubTexture name="Symbol 2 instance 10005" x="666" y="413" width="663" height="199" frameWidth="667" frameHeight="200" frameX="-1" frameY="0"/>
+    <SubTexture name="Symbol 2 instance 10006" x="0" y="622" width="665" height="200" frameWidth="667" frameHeight="200" frameX="-2" frameY="0"/>
+    <SubTexture name="Symbol 2 instance 10007" x="0" y="832" width="667" height="199" frameWidth="667" frameHeight="200" frameX="0" frameY="-1"/>
+</TextureAtlas>

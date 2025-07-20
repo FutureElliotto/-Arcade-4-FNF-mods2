@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GuitarHeroSan.png">
+<SubTexture name="idle0000" x="0" y="0" width="292" height="398" frameX="-517" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="292" y="0" width="289" height="400" frameX="-521" frameY="-193" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="581" y="0" width="297" height="403" frameX="-517" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="0" y="403" width="296" height="405" frameX="-518" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="296" y="403" width="319" height="402" frameX="-520" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="615" y="403" width="315" height="399" frameX="-522" frameY="-187" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="0" y="808" width="297" height="395" frameX="-480" frameY="-191" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="297" y="808" width="295" height="396" frameX="-482" frameY="-191" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="592" y="808" width="340" height="390" frameX="-505" frameY="-197" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="0" y="1204" width="334" height="391" frameX="-506" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="334" y="1204" width="288" height="405" frameX="-513" frameY="-181" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="622" y="1204" width="285" height="406" frameX="-510" frameY="-180" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

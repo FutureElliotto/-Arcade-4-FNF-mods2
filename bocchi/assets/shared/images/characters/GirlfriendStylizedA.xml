@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GirlfriendStylizedA.png">
+<SubTexture name="danceleft0000" x="0" y="0" width="198" height="374" frameX="-535" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="danceleft0001" x="198" y="0" width="194" height="377" frameX="-537" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="danceleft0002" x="392" y="0" width="194" height="386" frameX="-535" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="danceright0000" x="0" y="386" width="188" height="383" frameX="-546" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="danceright0001" x="188" y="386" width="193" height="383" frameX="-541" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="danceright0002" x="381" y="386" width="194" height="386" frameX="-535" frameY="-176" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

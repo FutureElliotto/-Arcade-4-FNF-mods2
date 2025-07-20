@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BoyfriendStylizedA.png">
+<SubTexture name="idle0000" x="0" y="0" width="172" height="354" frameX="-552" frameY="-254" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="172" y="0" width="170" height="362" frameX="-555" frameY="-253" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="342" y="0" width="166" height="359" frameX="-566" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="508" y="0" width="165" height="357" frameX="-567" frameY="-252" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="0" y="362" width="192" height="347" frameX="-545" frameY="-264" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="192" y="362" width="184" height="346" frameX="-549" frameY="-262" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="376" y="362" width="167" height="357" frameX="-604" frameY="-256" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="543" y="362" width="169" height="358" frameX="-601" frameY="-257" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="0" y="720" width="191" height="365" frameX="-541" frameY="-247" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="191" y="720" width="186" height="363" frameX="-545" frameY="-248" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="377" y="720" width="170" height="369" frameX="-579" frameY="-238" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="547" y="720" width="170" height="366" frameX="-578" frameY="-239" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

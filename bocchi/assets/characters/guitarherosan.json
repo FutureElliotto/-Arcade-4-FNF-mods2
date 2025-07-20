@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 6,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "up",
+			"indices": [0, 1]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "right",
+			"indices": [0, 1]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "left",
+			"indices": [0, 1]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "down",
+			"indices": [0, 1]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/GuitarHeroSan",
+	"position": [-400, 40],
+	"healthicon": "bocchi",
+	"flip_x": false,
+	"healthbar_colors": [255, 141, 194],
+	"camera_position": [-450, -160],
+	"sing_duration": 4,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

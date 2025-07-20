@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"offsets": [0, -9],
+			"indices": [],
+			"fps": 6,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "danceright"
+		},
+		{
+			"offsets": [0, -9],
+			"indices": [],
+			"fps": 6,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "danceleft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/GirlfriendStylizedA",
+	"position": [-360, 20],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [-450, -150],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

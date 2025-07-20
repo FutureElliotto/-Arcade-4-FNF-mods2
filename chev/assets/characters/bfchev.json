@@ -1,0 +1,78 @@
+{
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"image": "characters/bfchev",
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"healthicon": "bfChev",
+	"flip_x": true,
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "i"
+		},
+		{
+			"offsets": [
+				57,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "l"
+		},
+		{
+			"offsets": [
+				49,
+				-47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "d"
+		},
+		{
+			"offsets": [
+				-48,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "u"
+		},
+		{
+			"offsets": [
+				-88,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "r"
+		}
+	]
+}

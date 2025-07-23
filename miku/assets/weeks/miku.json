@@ -1,0 +1,60 @@
+{
+	"songs": [
+		[
+			"PoPeeBo",
+			"miku",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Fresh (Miku Mix)",
+			"miku",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Satin Panties (Miku Mix)",
+			"miku",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"High (Miku Mix)",
+			"miku",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+
+	"weekCharacters": [
+		"sarv",
+		"mfmbf",
+		"mfmgf"
+	],
+	"storyName": "Mid Fight Misses Repented",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"difficulties": "normal",
+	"startUnlocked": true
+}

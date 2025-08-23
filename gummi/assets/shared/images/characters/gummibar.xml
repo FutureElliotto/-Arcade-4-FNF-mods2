@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="gummibar.png" width="3839" height="3502">
+  <SubTexture name="gummibar down0000.png" x="0" y="0"  width="590" height="317" frameX="-0" frameY="-10" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0002.png" x="590" y="0"  width="584" height="318" frameX="-6" frameY="-2" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0004.png" x="1174" y="0"  width="584" height="319" frameX="-8" frameY="-1" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0006.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down gangsta0002.png" x="2343" y="0"  width="584" height="381" frameX="-6" frameY="-4" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0000.png" x="2927" y="0"  width="590" height="383" frameX="-0" frameY="-9" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0004.png" x="0" y="317"  width="584" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0006.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar idle0014.png" x="1169" y="319"  width="477" height="455" frameX="-23" frameY="-14" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0000.png" x="1646" y="320"  width="483" height="459" frameX="-9" frameY="-10" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0016.png" x="2129" y="381"  width="476" height="460" frameX="-15" frameY="-9" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar right0002.png" x="2605" y="383"  width="490" height="460" frameX="-3" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0004.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0000.png" x="0" y="701"  width="483" height="461" frameX="-20" frameY="-0" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar idle0006.png" x="483" y="702"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0008.png" x="961" y="774"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0002.png" x="1439" y="779"  width="475" height="467" frameX="-15" frameY="-2" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0018.png" x="1914" y="841"  width="481" height="467" frameX="-6" frameY="-2" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0004.png" x="2395" y="843"  width="476" height="468" frameX="-18" frameY="-1" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0020.png" x="2871" y="843"  width="483" height="468" frameX="-2" frameY="-1" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0022.png" x="3354" y="843"  width="485" height="469" frameX="-0" frameY="-0" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar left0000.png" x="0" y="1168"  width="583" height="480" frameX="-0" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0004.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0002.png" x="1166" y="1246"  width="583" height="482" frameX="-5" frameY="-0" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar idle gangsta0000.png" x="1749" y="1308"  width="483" height="511" frameX="-9" frameY="-28" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0014.png" x="2232" y="1311"  width="477" height="515" frameX="-23" frameY="-24" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0002.png" x="2709" y="1311"  width="475" height="516" frameX="-15" frameY="-23" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0004.png" x="3184" y="1312"  width="476" height="518" frameX="-18" frameY="-21" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0006.png" x="0" y="1648"  width="478" height="519" frameX="-19" frameY="-20" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar up0004.png" x="478" y="1720"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0006.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar idle gangsta0008.png" x="1358" y="1819"  width="478" height="520" frameX="-19" frameY="-19" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0010.png" x="1836" y="1826"  width="478" height="520" frameX="-19" frameY="-19" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0016.png" x="2314" y="1827"  width="476" height="521" frameX="-15" frameY="-18" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar up0002.png" x="2790" y="1830"  width="435" height="523" frameX="-3" frameY="-7" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar idle gangsta0018.png" x="3225" y="1830"  width="481" height="525" frameX="-6" frameY="-14" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar up0000.png" x="0" y="2167"  width="407" height="530" frameX="-22" frameY="-0" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar right gangsta0004.png" x="407" y="2239"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar up gangsta0006.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar idle gangsta0020.png" x="1345" y="2339"  width="483" height="526" frameX="-2" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0022.png" x="1828" y="2346"  width="485" height="526" frameX="-0" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar right gangsta0006.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar idle gangsta0024.png" x="2805" y="2355"  width="485" height="526" frameX="-0" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar right gangsta0002.png" x="3290" y="2355"  width="490" height="527" frameX="-3" frameY="-1" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0000.png" x="0" y="2764"  width="483" height="528" frameX="-20" frameY="-0" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar left gangsta0002.png" x="483" y="2849"  width="582" height="552" frameX="-4" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0004.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0000.png" x="1646" y="2872"  width="583" height="553" frameX="-0" frameY="-0" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar up gangsta0004.png" x="2229" y="2878"  width="446" height="603" frameX="-0" frameY="-17" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0002.png" x="2675" y="2881"  width="441" height="608" frameX="-3" frameY="-12" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0000.png" x="3116" y="2882"  width="434" height="620" frameX="-1" frameY="-0" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar down gangsta0001.png" x="2927" y="0"  width="590" height="383" frameX="-0" frameY="-9" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0003.png" x="2343" y="0"  width="584" height="381" frameX="-6" frameY="-4" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0005.png" x="0" y="317"  width="584" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0007.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0008.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0009.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0010.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0011.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0012.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down gangsta0013.png" x="584" y="318"  width="585" height="384" frameX="-8" frameY="-1" frameWidth="593" frameHeight="392"/>
+  <SubTexture name="gummibar down0001.png" x="0" y="0"  width="590" height="317" frameX="-0" frameY="-10" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0003.png" x="590" y="0"  width="584" height="318" frameX="-6" frameY="-2" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0005.png" x="1174" y="0"  width="584" height="319" frameX="-8" frameY="-1" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0007.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0008.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0009.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0010.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0011.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0012.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar down0013.png" x="1758" y="0"  width="585" height="320" frameX="-8" frameY="-0" frameWidth="593" frameHeight="327"/>
+  <SubTexture name="gummibar idle gangsta0001.png" x="1749" y="1308"  width="483" height="511" frameX="-9" frameY="-28" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0003.png" x="2709" y="1311"  width="475" height="516" frameX="-15" frameY="-23" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0005.png" x="3184" y="1312"  width="476" height="518" frameX="-18" frameY="-21" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0007.png" x="0" y="1648"  width="478" height="519" frameX="-19" frameY="-20" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0009.png" x="1358" y="1819"  width="478" height="520" frameX="-19" frameY="-19" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0012.png" x="1358" y="1819"  width="478" height="520" frameX="-19" frameY="-19" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0013.png" x="1358" y="1819"  width="478" height="520" frameX="-19" frameY="-19" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0011.png" x="1836" y="1826"  width="478" height="520" frameX="-19" frameY="-19" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0015.png" x="2232" y="1311"  width="477" height="515" frameX="-23" frameY="-24" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0017.png" x="2314" y="1827"  width="476" height="521" frameX="-15" frameY="-18" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0019.png" x="3225" y="1830"  width="481" height="525" frameX="-6" frameY="-14" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0021.png" x="1345" y="2339"  width="483" height="526" frameX="-2" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0023.png" x="1828" y="2346"  width="485" height="526" frameX="-0" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0026.png" x="1828" y="2346"  width="485" height="526" frameX="-0" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0027.png" x="1828" y="2346"  width="485" height="526" frameX="-0" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0025.png" x="2805" y="2355"  width="485" height="526" frameX="-0" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle gangsta0028.png" x="2805" y="2355"  width="485" height="526" frameX="-0" frameY="-13" frameWidth="501" frameHeight="540"/>
+  <SubTexture name="gummibar idle0001.png" x="1646" y="320"  width="483" height="459" frameX="-9" frameY="-10" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0003.png" x="1439" y="779"  width="475" height="467" frameX="-15" frameY="-2" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0005.png" x="2395" y="843"  width="476" height="468" frameX="-18" frameY="-1" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0007.png" x="483" y="702"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0009.png" x="961" y="774"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0010.png" x="961" y="774"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0011.png" x="961" y="774"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0012.png" x="961" y="774"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0013.png" x="961" y="774"  width="478" height="466" frameX="-19" frameY="-3" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0015.png" x="1169" y="319"  width="477" height="455" frameX="-23" frameY="-14" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0017.png" x="2129" y="381"  width="476" height="460" frameX="-15" frameY="-9" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0019.png" x="1914" y="841"  width="481" height="467" frameX="-6" frameY="-2" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0021.png" x="2871" y="843"  width="483" height="468" frameX="-2" frameY="-1" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0023.png" x="3354" y="843"  width="485" height="469" frameX="-0" frameY="-0" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0024.png" x="3354" y="843"  width="485" height="469" frameX="-0" frameY="-0" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0025.png" x="3354" y="843"  width="485" height="469" frameX="-0" frameY="-0" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0026.png" x="3354" y="843"  width="485" height="469" frameX="-0" frameY="-0" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0027.png" x="3354" y="843"  width="485" height="469" frameX="-0" frameY="-0" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar idle0028.png" x="3354" y="843"  width="485" height="469" frameX="-0" frameY="-0" frameWidth="501" frameHeight="470"/>
+  <SubTexture name="gummibar left gangsta0001.png" x="1646" y="2872"  width="583" height="553" frameX="-0" frameY="-0" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0003.png" x="483" y="2849"  width="582" height="552" frameX="-4" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0005.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0006.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0007.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0008.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0009.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0010.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0011.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0012.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left gangsta0013.png" x="1065" y="2865"  width="581" height="552" frameX="-6" frameY="-1" frameWidth="587" frameHeight="553"/>
+  <SubTexture name="gummibar left0001.png" x="0" y="1168"  width="583" height="480" frameX="-0" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0003.png" x="1166" y="1246"  width="583" height="482" frameX="-5" frameY="-0" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0005.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0006.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0007.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0008.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0009.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0010.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0011.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0012.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar left0013.png" x="583" y="1240"  width="583" height="480" frameX="-7" frameY="-2" frameWidth="590" frameHeight="482"/>
+  <SubTexture name="gummibar right gangsta0001.png" x="0" y="2764"  width="483" height="528" frameX="-20" frameY="-0" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0003.png" x="3290" y="2355"  width="490" height="527" frameX="-3" frameY="-1" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0005.png" x="407" y="2239"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0007.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0008.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0009.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0010.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0011.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0012.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right gangsta0013.png" x="2313" y="2353"  width="492" height="525" frameX="-0" frameY="-3" frameWidth="504" frameHeight="528"/>
+  <SubTexture name="gummibar right0001.png" x="0" y="701"  width="483" height="461" frameX="-20" frameY="-0" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0003.png" x="2605" y="383"  width="490" height="460" frameX="-3" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0005.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0006.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0007.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0008.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0009.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0010.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0011.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0012.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar right0013.png" x="3095" y="383"  width="492" height="460" frameX="-0" frameY="-1" frameWidth="504" frameHeight="461"/>
+  <SubTexture name="gummibar up gangsta0001.png" x="3116" y="2882"  width="434" height="620" frameX="-1" frameY="-0" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0003.png" x="2675" y="2881"  width="441" height="608" frameX="-3" frameY="-12" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0005.png" x="2229" y="2878"  width="446" height="603" frameX="-0" frameY="-17" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0007.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0008.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0009.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0010.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0011.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0012.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up gangsta0013.png" x="899" y="2247"  width="446" height="602" frameX="-0" frameY="-18" frameWidth="447" frameHeight="620"/>
+  <SubTexture name="gummibar up0001.png" x="0" y="2167"  width="407" height="530" frameX="-22" frameY="-0" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0003.png" x="2790" y="1830"  width="435" height="523" frameX="-3" frameY="-7" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0005.png" x="478" y="1720"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0007.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0008.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0009.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0010.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0011.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0012.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+  <SubTexture name="gummibar up0013.png" x="918" y="1728"  width="440" height="519" frameX="-0" frameY="-11" frameWidth="441" frameHeight="530"/>
+</TextureAtlas>

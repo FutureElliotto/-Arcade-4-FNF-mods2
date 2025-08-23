@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="gummibar_guitar.png" width="2906" height="3372">
+  <SubTexture name="gummibar down guitar0002.png" x="0" y="0"  width="962" height="553" frameX="-0" frameY="-7" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar right guitar0002.png" x="962" y="0"  width="961" height="582" frameX="-0" frameY="-31" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0006.png" x="0" y="553"  width="961" height="582" frameX="-0" frameY="-31" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0000.png" x="1923" y="0"  width="948" height="608" frameX="-1" frameY="-7" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar down guitar0004.png" x="961" y="582"  width="930" height="545" frameX="-0" frameY="-15" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0000.png" x="1891" y="608"  width="929" height="543" frameX="-1" frameY="-17" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar right guitar0004.png" x="961" y="1127"  width="922" height="589" frameX="-0" frameY="-24" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar left guitar0002.png" x="0" y="1135"  width="898" height="721" frameX="-3" frameY="-7" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar up guitar0002.png" x="1883" y="1151"  width="867" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar left guitar0004.png" x="898" y="1716"  width="836" height="711" frameX="-3" frameY="-17" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar up guitar0000.png" x="0" y="1856"  width="828" height="798" frameX="-0" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0004.png" x="828" y="2427"  width="825" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar left guitar0000.png" x="0" y="2654"  width="819" height="708" frameX="-0" frameY="-20" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar idle guitar0000.png" x="1653" y="2427"  width="586" height="472" frameX="-0" frameY="-3" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0002.png" x="1734" y="1949"  width="586" height="474" frameX="-3" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0004.png" x="2320" y="1949"  width="586" height="475" frameX="-6" frameY="-0" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0006.png" x="2239" y="2424"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0008.png" x="2239" y="2898"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar down guitar0001.png" x="1891" y="608"  width="929" height="543" frameX="-1" frameY="-17" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0003.png" x="0" y="0"  width="962" height="553" frameX="-0" frameY="-7" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0006.png" x="0" y="0"  width="962" height="553" frameX="-0" frameY="-7" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0007.png" x="0" y="0"  width="962" height="553" frameX="-0" frameY="-7" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0010.png" x="0" y="0"  width="962" height="553" frameX="-0" frameY="-7" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0011.png" x="0" y="0"  width="962" height="553" frameX="-0" frameY="-7" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0005.png" x="961" y="582"  width="930" height="545" frameX="-0" frameY="-15" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0008.png" x="961" y="582"  width="930" height="545" frameX="-0" frameY="-15" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0009.png" x="961" y="582"  width="930" height="545" frameX="-0" frameY="-15" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0012.png" x="961" y="582"  width="930" height="545" frameX="-0" frameY="-15" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar down guitar0013.png" x="961" y="582"  width="930" height="545" frameX="-0" frameY="-15" frameWidth="976" frameHeight="561"/>
+  <SubTexture name="gummibar idle guitar0001.png" x="1653" y="2427"  width="586" height="472" frameX="-0" frameY="-3" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0003.png" x="1734" y="1949"  width="586" height="474" frameX="-3" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0005.png" x="2320" y="1949"  width="586" height="475" frameX="-6" frameY="-0" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0007.png" x="2239" y="2424"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0009.png" x="2239" y="2898"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0010.png" x="2239" y="2898"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0011.png" x="2239" y="2898"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0012.png" x="2239" y="2898"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar idle guitar0013.png" x="2239" y="2898"  width="586" height="474" frameX="-7" frameY="-1" frameWidth="594" frameHeight="475"/>
+  <SubTexture name="gummibar left guitar0001.png" x="0" y="2654"  width="819" height="708" frameX="-0" frameY="-20" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0003.png" x="0" y="1135"  width="898" height="721" frameX="-3" frameY="-7" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0006.png" x="0" y="1135"  width="898" height="721" frameX="-3" frameY="-7" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0007.png" x="0" y="1135"  width="898" height="721" frameX="-3" frameY="-7" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0010.png" x="0" y="1135"  width="898" height="721" frameX="-3" frameY="-7" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0011.png" x="0" y="1135"  width="898" height="721" frameX="-3" frameY="-7" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0005.png" x="898" y="1716"  width="836" height="711" frameX="-3" frameY="-17" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0008.png" x="898" y="1716"  width="836" height="711" frameX="-3" frameY="-17" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0009.png" x="898" y="1716"  width="836" height="711" frameX="-3" frameY="-17" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0012.png" x="898" y="1716"  width="836" height="711" frameX="-3" frameY="-17" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar left guitar0013.png" x="898" y="1716"  width="836" height="711" frameX="-3" frameY="-17" frameWidth="916" frameHeight="728"/>
+  <SubTexture name="gummibar right guitar0001.png" x="1923" y="0"  width="948" height="608" frameX="-1" frameY="-7" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0003.png" x="962" y="0"  width="961" height="582" frameX="-0" frameY="-31" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0005.png" x="961" y="1127"  width="922" height="589" frameX="-0" frameY="-24" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0008.png" x="961" y="1127"  width="922" height="589" frameX="-0" frameY="-24" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0009.png" x="961" y="1127"  width="922" height="589" frameX="-0" frameY="-24" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0012.png" x="961" y="1127"  width="922" height="589" frameX="-0" frameY="-24" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0013.png" x="961" y="1127"  width="922" height="589" frameX="-0" frameY="-24" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0007.png" x="0" y="553"  width="961" height="582" frameX="-0" frameY="-31" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0010.png" x="0" y="553"  width="961" height="582" frameX="-0" frameY="-31" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar right guitar0011.png" x="0" y="553"  width="961" height="582" frameX="-0" frameY="-31" frameWidth="974" frameHeight="616"/>
+  <SubTexture name="gummibar up guitar0001.png" x="0" y="1856"  width="828" height="798" frameX="-0" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0003.png" x="1883" y="1151"  width="867" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0006.png" x="1883" y="1151"  width="867" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0007.png" x="1883" y="1151"  width="867" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0010.png" x="1883" y="1151"  width="867" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0011.png" x="1883" y="1151"  width="867" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0005.png" x="828" y="2427"  width="825" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0008.png" x="828" y="2427"  width="825" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0009.png" x="828" y="2427"  width="825" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0012.png" x="828" y="2427"  width="825" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+  <SubTexture name="gummibar up guitar0013.png" x="828" y="2427"  width="825" height="798" frameX="-3" frameY="-14" frameWidth="870" frameHeight="812"/>
+</TextureAtlas>

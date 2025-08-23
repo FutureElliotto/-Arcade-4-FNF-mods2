@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="crowdFront.png" width="3023" height="2413">
+  <SubTexture name="crowd fron instance 10000.png" x="0" y="0"  width="3023" height="776" frameX="-1" frameY="-32" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10003.png" x="0" y="776"  width="2974" height="828" frameX="-3" frameY="-1" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10006.png" x="0" y="1604"  width="2968" height="809" frameX="-0" frameY="-8" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10001.png" x="0" y="0"  width="3023" height="776" frameX="-1" frameY="-32" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10002.png" x="0" y="0"  width="3023" height="776" frameX="-1" frameY="-32" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10004.png" x="0" y="776"  width="2974" height="828" frameX="-3" frameY="-1" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10005.png" x="0" y="776"  width="2974" height="828" frameX="-3" frameY="-1" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10007.png" x="0" y="1604"  width="2968" height="809" frameX="-0" frameY="-8" frameWidth="3025" frameHeight="829"/>
+  <SubTexture name="crowd fron instance 10008.png" x="0" y="1604"  width="2968" height="809" frameX="-0" frameY="-8" frameWidth="3025" frameHeight="829"/>
+</TextureAtlas>

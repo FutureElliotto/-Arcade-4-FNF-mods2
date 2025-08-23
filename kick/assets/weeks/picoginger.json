@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"ginger",
+			"dan",
+			[
+				255,
+				80,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "gingers",
+	"weekName": "picoginger",
+	"hideStoryMode": true,
+	"weekBefore": "weekdan",
+	"startUnlocked": true
+}
